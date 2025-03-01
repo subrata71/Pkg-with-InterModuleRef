@@ -1,0 +1,6 @@
+{
+  "moduleName": "JSModule1",
+  "moduleUUID": "bf0cb08d-e9d5-482d-a925-0358e25dd6f8",
+  "packageName": "Pkg with InterModuleRef",
+  "packageUUID": "2d0d04b4-6a10-4e64-a4fd-7b86526ed1fd"
+}
