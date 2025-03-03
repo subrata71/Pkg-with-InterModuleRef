@@ -1,0 +1,32 @@
+{
+  "gitSyncId": "67c59184d347ed7c4f16560b_302261c6-ed01-4279-98f7-1c041370f243",
+  "id": "JSModule15_JSModule14",
+  "moduleUUID": "5b67e0a3-feb7-4ce6-9f9c-7e010a55a00a",
+  "packageUUID": "2d0d04b4-6a10-4e64-a4fd-7b86526ed1fd",
+  "type": "JS_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "MODULE",
+    "inputs": {
+      "myFun1": "[]",
+      "myFun2": "[]"
+    },
+    "moduleId": "JSModule15",
+    "moduleInputs": {
+      "oeyomsdbdk": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "oeyomsdbdk",
+        "label": "myFun1",
+        "propertyName": "inputs.myFun1"
+      },
+      "yirkexepms": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "yirkexepms",
+        "label": "myFun2",
+        "propertyName": "inputs.myFun2"
+      }
+    },
+    "name": "JSModule14"
+  }
+}
