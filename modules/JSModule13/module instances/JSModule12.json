@@ -1,7 +1,7 @@
 {
-  "gitSyncId": "67c324acd59b507efecf523b_cf6156ca-15f2-4038-9583-f07c315c8491",
-  "id": "JSModule7_JSModule6",
-  "moduleUUID": "995f7115-8a05-4fc6-a609-20bed2e91ba3",
+  "gitSyncId": "67c324acd59b507efecf523b_a2b9331e-91b1-43d1-971f-643b69ee26bb",
+  "id": "JSModule13_JSModule12",
+  "moduleUUID": "cc9bb164-2d6c-4c61-bc8a-50bc28a2f630",
   "packageUUID": "2d0d04b4-6a10-4e64-a4fd-7b86526ed1fd",
   "type": "JS_MODULE",
   "unpublishedModuleInstance": {
@@ -10,23 +10,23 @@
       "myFun1": "[]",
       "myFun2": "[]"
     },
-    "moduleId": "JSModule7",
+    "moduleId": "JSModule13",
     "moduleInputs": {
-      "iuwtjyudbs": {
+      "qkvkujlbvb": {
         "controlType": "INPUT_TEXT",
         "defaultValue": "[]",
-        "id": "iuwtjyudbs",
+        "id": "qkvkujlbvb",
         "label": "myFun2",
         "propertyName": "inputs.myFun2"
       },
-      "yegflrdobz": {
+      "rejhnkhkgm": {
         "controlType": "INPUT_TEXT",
         "defaultValue": "[]",
-        "id": "yegflrdobz",
+        "id": "rejhnkhkgm",
         "label": "myFun1",
         "propertyName": "inputs.myFun1"
       }
     },
-    "name": "JSModule6"
+    "name": "JSModule12"
   }
 }
