@@ -1,7 +1,7 @@
 {
-  "gitSyncId": "67c324acd59b507efecf523b_3a43c395-fd43-4367-9d72-3834c8f467ac",
-  "id": "JSModule8_JSModule7",
-  "moduleUUID": "aeae6c52-80ac-4317-bbbd-d058138d4238",
+  "gitSyncId": "67c59184d347ed7c4f16560b_25831791-f465-4255-8fc1-ad64eabcebae",
+  "id": "JSModule14_JSModule13",
+  "moduleUUID": "098291d4-674f-428d-bda5-dfbbb53d7061",
   "packageUUID": "2d0d04b4-6a10-4e64-a4fd-7b86526ed1fd",
   "type": "JS_MODULE",
   "unpublishedModuleInstance": {
@@ -10,23 +10,23 @@
       "myFun1": "[]",
       "myFun2": "[]"
     },
-    "moduleId": "JSModule8",
+    "moduleId": "JSModule14",
     "moduleInputs": {
-      "aipjrpjuui": {
+      "dfqfijoabh": {
         "controlType": "INPUT_TEXT",
         "defaultValue": "[]",
-        "id": "aipjrpjuui",
+        "id": "dfqfijoabh",
         "label": "myFun1",
         "propertyName": "inputs.myFun1"
       },
-      "iolcdafgda": {
+      "popuefhhqf": {
         "controlType": "INPUT_TEXT",
         "defaultValue": "[]",
-        "id": "iolcdafgda",
+        "id": "popuefhhqf",
         "label": "myFun2",
         "propertyName": "inputs.myFun2"
       }
     },
-    "name": "JSModule7"
+    "name": "JSModule13"
   }
 }

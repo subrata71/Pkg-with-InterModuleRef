@@ -10,6 +10,7 @@
       "myFun1": "[]",
       "myFun2": "[]"
     },
+    "moduleId": "JSModule2",
     "moduleInputs": {
       "jsuulociwo": {
         "controlType": "INPUT_TEXT",
