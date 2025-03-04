@@ -1,6 +1,6 @@
 {
   "moduleName": "QueryModule1",
   "moduleUUID": "1d8675f3-d85a-4441-9349-ad7ec34d596a",
-  "packageName": "Pkg with InterModuleRef",
+  "packageName": "Pkg-with-InterModuleRef",
   "packageUUID": "2d0d04b4-6a10-4e64-a4fd-7b86526ed1fd"
 }
